@@ -1,5 +1,4 @@
 /* Blake Barnes
- * CSC372-PP-OPT2
  * Project Purpose: Demonstrate knowledge of comparators, sort method,
  * LinkedLists, user input loops, file output, and error handling
  *
