@@ -54,5 +54,5 @@ Vehicle.java
  
  * Program Outputs: There are a number of error handling outputs.
   The program also outputs 1) an unsorted display of the vehicles
-  input, 2) a list of the vehicles sorted by ascending MPG, and
-  3) a confirmation of the output to the .txt file location
+  input, 2) a list of the vehicles sorted by ascending MPG, and 3) 
+  a confirmation of the output to the .txt file location
